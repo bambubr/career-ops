@@ -1,0 +1,101 @@
+# Career-Ops Profile — Domingos Alcântara
+# Generated from LinkedIn profile 2026-09-21
+
+candidate:
+  full_name: "Domingos Alcântara"
+  email: "jdomingos@gmail.com"
+  phone: "+33659892273"
+  location: "Paris, Île-de-France, France (Saint-Ouen)"
+  linkedin: "linkedin.com/in/jdalcantara"
+  portfolio_url: ""
+  github: ""
+
+target_roles:
+  primary:
+    - "Senior IT Project Manager — Aviation"
+    - "Programme Manager — Aviation / Transport"
+    - "Aviation Digital Transformation Consultant"
+    - "Technical Product Manager — Aviation IT"
+  archetypes:
+    - name: "Senior IT Project Manager — Aviation"
+      level: "Senior / Principal"
+      fit: "primary"
+    - name: "Programme Manager — Transport / Aviation"
+      level: "Senior / Director"
+      fit: "primary"
+    - name: "Aviation Transformation Consultant"
+      level: "Senior Consultant / Managing Consultant"
+      fit: "primary"
+    - name: "Product Manager — Aviation IT"
+      level: "Senior PM"
+      fit: "secondary"
+    - name: "ATM / Air Traffic Management IT PM"
+      level: "Senior"
+      fit: "secondary"
+
+narrative:
+  headline: "Senior IT PM & Aviation specialist — fleet transitions, flight ops SI, eVTOL products"
+  exit_story: >
+    12+ years delivering IT programmes in aviation (Air Caraïbes, Transavia, SITA, Thales GS, Air France).
+    ENAC + TBS double master in Air Transport Management. Currently Deputy Head of IT Flight Operations
+    at Air Caraïbes / French Bee. Targeting senior PM / programme manager / transformation roles
+    in aviation, transport, or consulting where sector depth is a differentiator.
+  superpowers:
+    - "Aviation IT domain depth (flight ops, reservations SI, fleet transitions, eVTOL)"
+    - "Trilingual FR/EN/PT native — operational in DE and TR"
+    - "ENAC alumni network (653 alumni at Air France alone)"
+    - "End-to-end IT project delivery in regulated aviation environments"
+    - "Operator-side experience (client of consultants) — differentiator in consulting roles"
+  proof_points:
+    - name: "Transavia B737→A320neo fleet transition"
+      hero_metric: "Full IT migration, 0 disruption opérationnelle"
+    - name: "SITA eVTOL communications products"
+      hero_metric: "Product inception to delivery for new eVTOL industry"
+    - name: "Air France BlueBiz loyalty programme"
+      hero_metric: "2 projects improving programme profitability and customer experience"
+    - name: "Air Caraïbes IFE (in-flight entertainment)"
+      hero_metric: "Multi-vendor IT programme, 18 months, international scope"
+
+compensation:
+  target_range: "€70K–90K brut annuel"
+  currency: "EUR"
+  minimum: "€60K"
+  location_flexibility: "Hybride IDF préféré — full remote possible — pas de relocation"
+  floor_note: "Senior Consultant grade chez cabinet Tier-1 peut plafonner sous €60K — vérifier avant engagement"
+
+location:
+  country: "France"
+  city: "Saint-Ouen (93), Île-de-France"
+  timezone: "CET/CEST"
+  visa_status: "Pas de besoin de sponsorship"
+  onsite_max: "3 jours/semaine sur site, IDF uniquement"
+  relocation: false
+
+security_clearance:
+  habilitation_defense: "Éligible (non détenu actuellement — Thales initie après offre)"
+
+network_assets:
+  enac_alumni: true
+  key_contacts:
+    - name: "Henri Brasseur"
+      company: "Capgemini Invent"
+      role: "Director, Public & Services / Transport"
+      source: "Référencé par Emmanuel Dufournet"
+      status: "À contacter — offre #065"
+    - name: "Emmanuel Dufournet"
+      company: "Capgemini Invent"
+      role: "Lead L&D Specialist"
+      source: "ENAC 2e degré"
+      status: "Contacté 2026-08-12 — RDV fin août confirmé — orienté vers Brasseur"
+    - name: "Hidenori Chida"
+      company: "BCG"
+      role: "Partner BCG, ENAC alumni"
+      source: "ENAC 2e degré"
+      status: "Contacté 2026-08-12 — BCG Vantage #070 Applied"
+
+language:
+  modes_dir: "modes/fr"
+  output_language: "fr"
+
+cv:
+  output_format: "html"
