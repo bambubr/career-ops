@@ -53,8 +53,8 @@ narrative:
       hero_metric: "Product inception to delivery for new eVTOL industry"
     - name: "Air France BlueBiz loyalty programme"
       hero_metric: "2 projects improving programme profitability and customer experience"
-    - name: "Air Caraïbes IFE (in-flight entertainment)"
-      hero_metric: "Programme IT multi-fournisseurs international — dans poste actuel Flight Ops"
+    - name: "Air Caraïbes — systèmes embarqués & onboard connectivity"
+      hero_metric: "SI vol, aircraft comms bord/sol, onboard Wi-Fi, scheduling — programme multi-fournisseurs dans poste actuel"
 
 compensation:
   target_range: "€70K–90K brut annuel"
