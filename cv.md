@@ -15,10 +15,15 @@ IT Project Manager with 12+ years of experience at the intersection of aviation 
 ## Experience
 
 ### Air Caraïbes / French Bee
-**Deputy Head of IT Flight Operations · Flight Operations Senior IT Project Manager**
-*January 2026 – Present (9 months) · Paris*
+**Deputy Head of IT Flight Operations**
+*July 2026 – Present · Paris*
 
-IT focal point for Flight Operations across the full Air Caraïbes aviation division (Air Caraïbes + French Bee). Responsible for all IT projects and systems supporting flight operations.
+Head of IT for Flight Operations across the Air Caraïbes aviation division (Air Caraïbes + French Bee). Scope includes flight ops systems, IFE (In-Flight Entertainment) programme management, and all IT projects supporting operations.
+
+**Flight Operations Senior IT Project Manager**
+*January 2026 – June 2026 (6 months) · Paris*
+
+IT focal point for Flight Operations (Air Caraïbes + French Bee). IFE programme management and flight ops IT delivery before promotion to Deputy Head.
 
 ---
 

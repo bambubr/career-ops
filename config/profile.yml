@@ -54,14 +54,14 @@ narrative:
     - name: "Air France BlueBiz loyalty programme"
       hero_metric: "2 projects improving programme profitability and customer experience"
     - name: "Air Caraïbes IFE (in-flight entertainment)"
-      hero_metric: "Multi-vendor IT programme, 18 months, international scope"
+      hero_metric: "Programme IT multi-fournisseurs international — dans poste actuel Flight Ops"
 
 compensation:
   target_range: "€70K–90K brut annuel"
   currency: "EUR"
-  minimum: "€60K"
+  minimum: "€65K brut (≈ €4 500 net/mois)"
   location_flexibility: "Hybride IDF préféré — full remote possible — pas de relocation"
-  floor_note: "Senior Consultant grade chez cabinet Tier-1 peut plafonner sous €60K — vérifier avant engagement"
+  floor_note: "Senior Consultant grade chez cabinet Tier-1 peut plafonner sous €65K — vérifier avant engagement"
 
 location:
   country: "France"
