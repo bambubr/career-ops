@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 81 | 2026-10-22 | Airbus Atlantic | Responsable projet Industrie du Futur – Supply Chain & Logistique (JR10435519) | 2.0/5 | SKIP | ❌ | [081](reports/081-airbus-atlantic-responsable-projet-industrie-futur-sc-2026-10-22.md) | 10 ans SC&L industrielle requis (absent), APICS CPIM2 requis (absent), localisation Montoir/Saint-Nazaire province. 3 disqualifieurs durs. Ne pas postuler. |
 | 80 | 2026-10-20 | ICAO CDI | Civil Aviation Management Expert / Project Coordinator (ARM24802) | 1.5/5 | SKIP | ❌ | [080](reports/080-icao-cdi-aviation-management-expert-2026-10-20.md) | 20 ans requis (12 dispo), 10 ans CAA/DGAC (0 dispo), USOAP/SARPs absents, SSA consultance. Disqualifieurs structurels multiples. Ne pas postuler. |
 | 79 | 2026-10-20 | Etihad | Regional Project Manager Cargo | 3.3/5 | Applied | ✅ | [079](reports/079-etihad-regional-pm-cargo-2026-10-20.md) | Postulé 2026-10-21 via LinkedIn Easy Apply. HR BP ex-Air Caraïbes contactée. Deadline 2 nov. Salaire inconnu (risque <€65K). |
 | 78 | 2026-10-10 | Transavia | Chargé de projets AMO "Opérations Aériennes" H/F | 3.4/5 | SKIP | ❌ | [078](reports/078-transavia-amo-operations-aeriennes-2026-10-10.md) | Ancien employeur 2023-2025. Scope iOS vol/cabine + connectivité bord = exact match. MAIS 168 candidats + 1 mois = fenêtre probablement fermée. On-site Orly. Contact Mathias (2e degré) avant postulation. Risque grille IT < €65K. |
