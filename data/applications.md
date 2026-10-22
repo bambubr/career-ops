@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 82 | 2026-10-22 | Safran Electronics & Defense | Chef-fe de projets PLM F/H — Migration Leader | 2.5/5 | SKIP | ❌ | [082](reports/082-safran-electronics-chef-projet-plm-2026-10-22.md) | PLM / 3DEXPERIENCE absent (hard gap), ETL migration données PLM absent. Safran = bonne cible pour rôle IT PM — mauvaise porte (Jonathan réseau à activer pour autre poste). |
 | 81 | 2026-10-22 | Airbus Atlantic | Responsable projet Industrie du Futur – Supply Chain & Logistique (JR10435519) | 2.0/5 | SKIP | ❌ | [081](reports/081-airbus-atlantic-responsable-projet-industrie-futur-sc-2026-10-22.md) | 10 ans SC&L industrielle requis (absent), APICS CPIM2 requis (absent), localisation Montoir/Saint-Nazaire province. 3 disqualifieurs durs. Ne pas postuler. |
 | 80 | 2026-10-20 | ICAO CDI | Civil Aviation Management Expert / Project Coordinator (ARM24802) | 1.5/5 | SKIP | ❌ | [080](reports/080-icao-cdi-aviation-management-expert-2026-10-20.md) | 20 ans requis (12 dispo), 10 ans CAA/DGAC (0 dispo), USOAP/SARPs absents, SSA consultance. Disqualifieurs structurels multiples. Ne pas postuler. |
 | 79 | 2026-10-20 | Etihad | Regional Project Manager Cargo | 3.3/5 | Applied | ✅ | [079](reports/079-etihad-regional-pm-cargo-2026-10-20.md) | Postulé 2026-10-21 via LinkedIn Easy Apply. HR BP ex-Air Caraïbes contactée. Deadline 2 nov. Salaire inconnu (risque <€65K). |
